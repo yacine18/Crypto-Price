@@ -1,0 +1,51 @@
+.container{
+    width: 910px;
+    height: 350px;
+    margin: -130px auto;
+    background: white;
+    border: 2px #427DA5;
+}
+
+#simple-board{
+   margin: auto;
+   border-spacing: 40px;
+   border-collapse: separate;
+   
+}
+
+#cell0-0{
+     background: #00B3AD;
+     color: white;
+     width: 90px;
+     padding: 12px;
+     text-align: center;
+     font-size: 16px;
+}
+
+#cell0-3{
+     background: #00B3AD;
+     width: 120px;
+     color: white;
+     text-align: center;
+     padding: 12px;
+     font-size: 16px;
+}
+
+#cell0-1{
+     background: #00B3AD;
+     width: 180px;
+     color: white;
+     text-align: center;
+     padding: 12px;
+     font-size: 16px;
+}
+
+#cell0-2{
+     background: #00B3AD;
+     width: 180px;
+     color: white;
+     text-align: center;
+     padding: 12px;
+     font-size: 16px;
+}
+
